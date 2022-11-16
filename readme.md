@@ -2,6 +2,16 @@
 **planet** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
 
 ### How about create two chain and send ibc token between chains
+
+## ENV
+```
+Mac os
+Go -> https://go.dev/
+nodejs -> https://nodejs.org/en/
+ignite -> https://www.cnblogs.com/farwish/p/14783218.html
+protobuf -> https://grpc.io/docs/protoc-installation/
+```
+
 ## Get started
 
 ```
